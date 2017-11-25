@@ -1,0 +1,31 @@
+{
+  "name": "computer-science-in",
+  "version": "1.0.0",
+  "description": "Computer science, written in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blakedietz/computer-science-in-js.git"
+  },
+  "author": "blakedietz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blakedietz/computer-science-in-js/issues"
+  },
+  "homepage": "https://github.com/blakedietz/computer-science-in-js#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-eslint": "^8.0.2",
+    "eslint": "^4.11.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-config-prettier": "^2.8.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-prettier": "^2.3.1",
+    "jest": "^21.2.1",
+    "prettier-eslint": "^8.2.2"
+  }
+}
